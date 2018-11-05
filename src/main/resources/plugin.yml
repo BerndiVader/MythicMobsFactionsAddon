@@ -1,0 +1,5 @@
+name: MythicMobsFactions
+main: com.gmail.berndivader.mythicmobsfactions.MythicFactions
+version: ${version}
+softdepend: []
+depend: [MythicMobs, Factions, MassiveCore]
