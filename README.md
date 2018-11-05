@@ -1,5 +1,7 @@
 # MythicMobsFactionsAddon <br>
 
+### [download](https://github.com/BerndiVader/MythicMobsFactionsAddon/blob/master/build/libs/MythicMobsFactions-0.001-SNAPSHOT.jar)
+
 Collection of various mythicmobs conditions to use with Factions. <br>
 Depends on: **Factions** - **MassiveCore** - **MythicMobs** <br>
 
